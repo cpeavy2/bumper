@@ -7,6 +7,6 @@ Paste "bumper.py" into the bumper folder.
  
 Make "bumper.py" executable with the "chmod +x bumper.py" command.
 
-catkin_build
+catkin_make
  
 Launch the bumper node with "rosrun bumper bumper.py"
